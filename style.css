@@ -19,7 +19,8 @@ height: auto;}
 color: rgb(73, 162, 187);
 font-size: 30px;}
 
-.keywords {color: rgb(6, 64, 97);
-font-weight: bold;}
+.keywords {color: rgb(255, 1, 137);
+font-weight: bold;
+font-style: italic;}
 
 hr {color: rgb(74, 143, 104);}
