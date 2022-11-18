@@ -14,13 +14,9 @@ h6{font-size: 7px;}
 
 #div_brand{float: center;}
 
-.brandimg1 {width: 400px;
+.brandimg {width: 400px;
 height: auto;
-float: right;}
-
-.brandimg2 {width: 400px;
-    height: auto;
-float: right;}
+float: center;}
 
 .brand {font-family:system-ui;
 color: rgb(164, 218, 189);
