@@ -4,9 +4,11 @@ font-family:  'Times New Roman';}
 
 h2{color: rgb(87, 30, 148);}
 
-h3{color: rgb(255, 1, 137);}
+h3{color: rgb(255, 1, 137);
+text-align: center;
+font-size: 20px;}
 
-h6{font-size: 7px;}
+h6{font-size: 4px;}
 
 #nous{background-color: rgb(237, 235, 213);}
 
@@ -20,4 +22,4 @@ font-size: 30px;}
 .b1keywords {color: rgb(97, 6, 59);
 font-weight: bold;}
 
-hr {color: rgb(62, 22, 137);}
+hr {color: rgb(74, 143, 104);}
