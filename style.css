@@ -1,5 +1,5 @@
 h1{text-align: center;
-    font-size: 60px;
+    font-size: 80px;
 font-family:  'Times New Roman';}
 
 h3{color: rgb(79, 142, 79);}
@@ -8,11 +8,13 @@ h3{color: rgb(79, 142, 79);}
 height: auto;}
 
 .brand{font-family:system-ui;
-color: rgb(50, 106, 135);
+color: rgb(73, 162, 187);
 font-size: 30px;}
 
 .B1keywords{color: rgb(97, 6, 59);
 font-weight: bold;}
 
 .hrvalentino {color: rgb(137, 22, 84);}
-#h3valentino {color: rgb(173, 143, 8);}
+#h3valentino {color: rgb(237, 4, 113);}
+
+#h3versace {color: rgb(237, 189, 0);}
