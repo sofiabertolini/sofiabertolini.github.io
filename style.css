@@ -8,12 +8,17 @@ h3{color: rgb(255, 1, 137);
 text-align: center;
 font-size: 30px;}
 
-h6{font-size: 5px;}
+h6{font-size: 7px;}
 
 #nous{background-color: rgb(164, 218, 189);}
 
-.brandimg {width: 300px;
-height: auto;}
+.brandimg1 {width: 400px;
+height: auto;
+float: right;}
+
+.brandimg2 {width: 400px;
+    height: auto;
+float: right;}
 
 .brand {font-family:system-ui;
 color: rgb(164, 218, 189);
