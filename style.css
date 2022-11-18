@@ -6,10 +6,11 @@ font-family:  'Times New Roman';}
 .versaceimg{width: 50px;
 height: auto;}
 
-.brand{font-family:system-ui;}
+.brand{font-family:system-ui;
+color: palevioletred;}
 
 .B1keywords{color: rgb(97, 6, 59);
 font-weight: bold;}
 
-.hrvalentino{color: rgb(255, 20, 147);}
-#h3valentino {color: rgb(55, 20, 47);}
+.hrvalentino {color: rgb(137, 22, 84);}
+#h3valentino {color: rgb(209, 8, 102);}
