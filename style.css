@@ -4,14 +4,16 @@ font-family:  'Times New Roman';}
 
 h3{color: rgb(79, 142, 79);}
 
-.versaceimg{width: 100px;
+h6{font-size: 7px;}
+
+.versaceimg {width: 100px;
 height: auto;}
 
-.brand{font-family:system-ui;
+.brand {font-family:system-ui;
 color: rgb(73, 162, 187);
 font-size: 30px;}
 
-.B1keywords{color: rgb(97, 6, 59);
+.B1keywords {color: rgb(97, 6, 59);
 font-weight: bold;}
 
 .hrvalentino {color: rgb(137, 22, 84);}
