@@ -20,7 +20,8 @@ float: center;}
 
 .brand {font-family:system-ui;
 color: rgb(164, 218, 189);
-font-size: 30px;}
+font-size: 30px;
+float: center;}
 
 .keywords {color: rgb(255, 1, 137);
 font-weight: bold;
