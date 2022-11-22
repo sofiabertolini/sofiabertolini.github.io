@@ -17,7 +17,10 @@ h6{font-size: 9px;}
 .brandimg1 {width: 400px;
 height: auto;
 float: left;
-margin: 6px;}
+margin-right: 1cm;
+margin-bottom: 1cm;
+margin-left: 1cm;
+margin-top: 1cm;}
 
 
 .brandimg2 {width: 400px;
