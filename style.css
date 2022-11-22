@@ -16,11 +16,13 @@ h6{font-size: 9px;}
 #nous{background-color: rgb(164, 218, 189);}
 
 .brandimg1 {width: 400px;
-height: auto;}
+height: auto;
+margin: 50px;}
 
 
 .brandimg2 {width: 400px;
-height: auto;}
+height: auto;
+margin: 50px;}
 
 .brand {font-family:system-ui;
 color: rgb(164, 218, 189);
