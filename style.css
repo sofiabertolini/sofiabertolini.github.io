@@ -16,7 +16,9 @@ h6{font-size: 9px;}
 
 .brandimg1 {width: 400px;
 height: auto;
-float: left;}
+float: left;
+margin: 6px;}
+
 
 .brandimg2 {width: 400px;
 height: auto;}
