@@ -2,7 +2,7 @@ h1{text-align: center;
     font-size: 80px;
 font-family:  'Times New Roman';}
 
-h2{color: rgb(49, 46, 46);
+h2{color: rgb(57, 52, 52);
 text-align: center;}
 
 h3{color: rgb(255, 1, 137);
@@ -35,4 +35,5 @@ hr {font-weight: bold;}
 .imghome {width: 300px;
 height: auto;}
 
-#homepage {margin: auto;}
+#homepage {margin: auto;
+width: 800px;}
